@@ -1,6 +1,6 @@
 # Reactagram
- 
-![logo (1)](https://user-images.githubusercontent.com/60625771/102245073-2eab4380-3f0e-11eb-9e24-1b141c4958cf.jpg)
+
+ ![lо--go](https://user-images.githubusercontent.com/60625771/102247421-feb16f80-3f10-11eb-9b40-db09a67b07b9.jpg)
 
 **Reactagram** - прототип социальной сети.<br>
 Проект написан с использованием React JS. Reactagram состоит из двух основных частей: профиль и лента. Один из компонентов ленты генерирует подборку постов, в профиле отображаются все публикации автора.
